@@ -1,1 +1,2 @@
 Initital text
+another line on feature 2
