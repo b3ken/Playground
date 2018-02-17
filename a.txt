@@ -1,4 +1,4 @@
 
-this is feature 3 commit on a.txt
+this is feature 3 commit on a.txti
 
- feature/1
+this is a feature 3 commit on a.txt the first line is on mater

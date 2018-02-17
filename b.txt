@@ -1,1 +1,3 @@
 initial commit on  feature 3
+
+this is in feature 3 the first line was from master
